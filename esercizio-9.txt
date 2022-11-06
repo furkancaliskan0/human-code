@@ -1,0 +1,37 @@
+-utilizzo lo smarphone per fare login;
+  -Faccio accesso attraverso Google;
+
+  -ALTRIMENTI{
+    -posso scarica direttamente l'app;
+  }
+
+-Una volta fatto accesso devo scegliere quale foto caricare su Instagram;
+  -Posso modificare la foto;
+
+   -ALTRIMENTI{
+    -Posso pubblicarla senza filtro;
+  }
+
+
+-Posso modificare la foto aggiungendo dei toni caldi;
+
+   -ALTRIMENTI{
+    -aggiungendo dei toni freddi;
+   }
+
+-Posso caricare un selfie;
+
+   -ALTRIMENTI{
+    -Posso caricare foto dei paesaggi che o visitato;
+   }
+
+Una volta decisa la foto posso;
+
+    -ALTRIMENTI{
+    -posso aggiungere una descrizione o un'emoji;
+    }
+
+    -ALTRIMENTI{
+    -posso pubblicarla senza descrizone;
+   }
+
