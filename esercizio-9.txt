@@ -25,11 +25,7 @@
     -Posso caricare foto dei paesaggi che o visitato;
    }
 
-Una volta decisa la foto posso;
-
-    -ALTRIMENTI{
-    -posso aggiungere una descrizione o un'emoji;
-    }
+-Una volta decisa la foto posso aggiungere una descrizione o un'emoji;
 
     -ALTRIMENTI{
     -posso pubblicarla senza descrizone;
